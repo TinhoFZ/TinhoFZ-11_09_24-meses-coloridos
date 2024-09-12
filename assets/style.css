@@ -1,0 +1,71 @@
+#page {
+    margin-right: 25%;
+    margin-left: 25%;
+    background-color: white;
+}
+
+body {
+    background-color: rgba(182, 107, 50, 0.388);
+}
+
+p {
+    text-align: center;
+    margin-right: 20% ;
+    margin-left: 20%;
+}
+
+h1, h3, footer {
+    text-align: center;
+}
+
+footer {
+    margin-top: 10%;
+    height: 100px;
+    background-color: rgb(21, 21, 89);
+    color: white;
+}
+
+.slogan, .aviso {
+    color: rgb(181, 162, 162);
+    font-style: italic;
+}
+
+
+.aviso {
+    font-size: small;
+}
+
+/* Não consigo deixar alinhado por conta dos diferentes tamanhos de tela */
+.botao {
+    margin-left: 37%;
+}
+
+
+.setembro {
+    background-color: rgb(216, 216, 75);
+}
+
+
+.outubro {
+    background-color: pink;
+}
+
+
+.novembro {
+    background-color: rgb(66, 192, 255);
+}
+
+.contato {
+    background-color: grey;
+}
+
+
+.imagem {
+    text-align: center;
+}
+
+
+.tam{
+    width: 275px;
+    height: 187.5px;
+}
